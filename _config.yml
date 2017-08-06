@@ -1,11 +1,11 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》及《Swift 进阶》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
-description: 嗨，我是王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Rnthking Luo
+subtitle: Stay hungry, Stay foolish
+welcome_message: 欢迎大家来到我的博客，希望能和大家一起交流分享！:）
+description: 嗨，我是罗伟广( Rnthking ), 目前居成都, 现在和身边的开发者朋友创办了一家软件公司，如果需要软件服务，可以联系我们哈 ! :)
+creator: <a href="http://onevcat.com">@Rnthking基于喵神【王魏】源码修改</a>
 
-url: "http://onevcat.com"
+url: "http://www.rnthking.com"
 
 permalink: /:year/:month/:title/
 
@@ -13,20 +13,20 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: red
 
 blog_button:
     title: 博客
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
+    - {title: 简历, description: 我的简历, url: 'https://rnthking.com'}
+    - {title: 关于, description: 了解更多关于我, url: 'http://rnthking.com'}
     - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
 
 # Pagination
 gems: [jekyll-paginate]
-paginate: 10
+paginate: 15
 paginate_path: "page/:num/"
 
 # Comment
@@ -35,13 +35,21 @@ comment:
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
+    weibo: 3591355593/Ffh9Q7oz1?ref=feedsdk&type=comment#_rnd1501744345788
     github: onevcat
     twitter: onevcat
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: rnthking@gmail.com
 
 # Google Analytics
 ga:
     id: UA-25719337-1
-    host: onevcat.com
+    host: www.rnthking.com
+
+
+# Serving
+detach:  false
+port:    80
+host:    162.243.159.189
+baseurl: "" # does not include hostname
+show_dir_listing: false
